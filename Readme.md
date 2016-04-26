@@ -1,13 +1,13 @@
-
 # workflow at Forfuture
 
 This repository holds documentation on our workflow and development
-process at [Forfuture, LLC](http://forfuture.co.ke).
+process at [Forfuture, LLC](http://www.forfuture.co.ke).
 
-**Why put this here?** We continuously strive to improve our quality of work. It's
-with this spirit that we open-sourced our development process. With outside contributions
-and discussions, we hope to improve it. Also, it allows other startups to emulate
-our work flow.
+**Why put this in the Public domain?** We continuously strive to
+improve our quality of work. It's with this spirit that we
+open-sourced our development process. With outside contributions
+and discussions, we hope to improve it. Other progressive teams
+may want to emulate our work flow.
 
 
 ## toc:
@@ -18,7 +18,6 @@ our work flow.
 
 ## license:
 
-**The MIT License (MIT)**
+Content authored by us is licensed under [CC Attribution-ShareAlike 4.0][license].
 
-Copyright &copy; 2015 Forfuture, LLC <we@forfuture.co.ke>
-
+[license]:https://creativecommons.org/licenses/by-sa/4.0/legalcode
